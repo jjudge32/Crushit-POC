@@ -1,4 +1,5 @@
 /**
+*this is a change
  * An apex page controller that exposes the change password functionality
  *another test comment 
  */
@@ -11,5 +12,5 @@ public with sharing class ChangePasswordController {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
     
-   	public ChangePasswordController() {}
+    public ChangePasswordController() {}
 }
