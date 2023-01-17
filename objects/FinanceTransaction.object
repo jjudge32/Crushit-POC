@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>CreationMode</fullName>
+        <inlineHelpText>The process used to create the finance transactions</inlineHelpText>
+    </fields>
+    <fields>
+        <fullName>EventAction</fullName>
+        <inlineHelpText>The financial action that caused the finance transaction</inlineHelpText>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>EventType</fullName>
+        <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>FinanceSystemIntegrationStatus</fullName>
+    </fields>
+    <fields>
+        <fullName>ReferenceEntityType</fullName>
+        <type>Picklist</type>
+    </fields>
+</CustomObject>
