@@ -9,6 +9,7 @@
         <members>ForgotPasswordControllerTest</members>
         <members>MyProfilePageController</members>
         <members>MyProfilePageControllerTest</members>
+        <members>OlderAccountsUtility</members>
         <members>PostInstallCallback</members>
         <members>PostInstallScript</members>
         <members>SiteLoginController</members>
