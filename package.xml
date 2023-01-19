@@ -134,6 +134,7 @@
         <members>CampaignMember.LeadSource</members>
         <members>CampaignMember.Salutation</members>
         <members>CampaignMember.Status</members>
+        <members>Car__c.Car_Price__c</members>
         <members>CardPaymentMethod.CardCategory</members>
         <members>CardPaymentMethod.CardType</members>
         <members>CardPaymentMethod.ProcessingMode</members>
@@ -356,6 +357,7 @@
         <name>CustomMetadata</name>
     </types>
     <types>
+        <members>Car__c</members>
         <members>Knowledge__kav</members>
         <members>VAT_Rate__mdt</members>
         <name>CustomObject</name>
@@ -400,6 +402,7 @@
         <members>Account-Account Layout</members>
         <members>Account-Custom Account Layout</members>
         <members>Account-Customer Account Layout</members>
+        <members>Car__c-Car Layout</members>
         <members>CollaborationGroup-Group Layout</members>
         <members>Knowledge__kav-Knowledge Layout</members>
         <members>Knowledge__kav-Lightning Knowledge FAQ Layout</members>

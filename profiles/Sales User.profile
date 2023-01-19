@@ -100,6 +100,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Car__c.Car_Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Event.DB_Activity_Type__c</field>
         <readable>false</readable>
@@ -146,6 +151,9 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Car__c-Car Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>CollaborationGroup-Group Layout</layout>
