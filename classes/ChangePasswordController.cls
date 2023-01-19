@@ -1,5 +1,5 @@
 /**
-*this is a change
+*this is a new change
  * An apex page controller that exposes the change password functionality
  *another test comment 
  */
