@@ -8,6 +8,7 @@
     <types>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
+        <members>ContactsTodayController</members>
         <members>DeployMetadata</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
