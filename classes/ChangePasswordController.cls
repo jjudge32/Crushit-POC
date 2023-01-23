@@ -10,6 +10,6 @@ public with sharing class ChangePasswordController {
     public PageReference changePassword() {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
-    
+     new change
    	public ChangePasswordController() {}
 }
