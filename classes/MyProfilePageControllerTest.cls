@@ -1,7 +1,7 @@
 /**
  * An apex class that updates details of a portal user.
    Guest users are never able to access this page.
- */fgdsfa
+ */fgdsfafdsaF'
 @IsTest public with sharing class MyProfilePageControllerTest {
 
     @IsTest(SeeAllData=true) static void testSave() {
