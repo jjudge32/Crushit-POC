@@ -2128,6 +2128,11 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>New_Label</members>
+        <members>test</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>VAT_Rate.IT</members>
         <members>VAT_Rate.RO</members>
         <members>VAT_Rate.SE</members>
