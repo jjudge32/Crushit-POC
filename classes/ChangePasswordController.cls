@@ -1,5 +1,5 @@
 /**
-*this is a change
+*this is a new change made
  * An apex page controller that exposes the change password functionality
  */
 public with sharing class ChangePasswordController {
