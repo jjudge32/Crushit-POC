@@ -31,6 +31,7 @@
         <members>UpdatePageLayout</members>
         <members>VATController</members>
         <members>newclassfordemo</members>
+        <members>testdemoclass</members>
         <members>trlhdtips__tt_UtilController</members>
         <members>trlhdtips__tt_UtilControllerTest</members>
         <name>ApexClass</name>
@@ -189,6 +190,7 @@
     <types>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
+        <members>Account.Account_Test_Field__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
         <members>Account.Annual_Revenue__c</members>
