@@ -1,6 +1,6 @@
 /**
+*this is a new change made today
  * An apex page controller that exposes the change password functionality
- *test comment going here
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
@@ -10,6 +10,6 @@ public with sharing class ChangePasswordController {
     public PageReference changePassword() {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
-     new change
-   	public ChangePasswordController() {}
+    
+    public ChangePasswordController() {}
 }

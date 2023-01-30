@@ -5,4 +5,9 @@
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
     </fields>
+    <listViews>
+        <fullName>AllAssets</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All Assets</label>
+    </listViews>
 </CustomObject>
