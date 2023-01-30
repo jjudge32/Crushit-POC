@@ -30,6 +30,7 @@
         <members>UpdateContactPageLayout</members>
         <members>UpdatePageLayout</members>
         <members>VATController</members>
+        <members>newclassfordemo</members>
         <members>trlhdtips__tt_UtilController</members>
         <members>trlhdtips__tt_UtilControllerTest</members>
         <name>ApexClass</name>
@@ -190,6 +191,7 @@
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.Annual_Revenue__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
