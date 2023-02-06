@@ -1,6 +1,6 @@
 /**
 *this is a  brand new change 789
- * An apex page controller that exposes the change password functionality
+ * An apex page controller that displays the change password functionality
  *another test comment 
  */
 public with sharing class ChangePasswordController {
