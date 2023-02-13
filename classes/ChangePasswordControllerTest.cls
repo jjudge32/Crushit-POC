@@ -1,5 +1,5 @@
 /**
- *  new comment changing 
+ *  new comment changing test
  */
 @IsTest public with sharing class ChangePasswordControllerTest {
    	@IsTest(SeeAllData=true) public static void testChangePasswordController() {

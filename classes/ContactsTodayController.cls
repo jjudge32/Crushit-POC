@@ -2,7 +2,7 @@ public class ContactsTodayController {
 
     @AuraEnabled
     public static List<Contact> getContactsForToday() {
-//test
+//test 123
         List<Task> my_tasks = [SELECT Id, Subject, WhoId FROM Task WHERE OwnerId = :UserInfo.getUserId() AND IsClosed = false AND WhoId != null];
         List<Event> my_events = [SELECT Id, Subject, WhoId FROM Event WHERE OwnerId = :UserInfo.getUserId() AND StartDateTime >= :Date.today() AND WhoId != null];
         List<Case> my_cases = [SELECT ID, ContactId, Status, Subject FROM Case WHERE OwnerId = :UserInfo.getUserId() AND IsClosed = false AND ContactId != null];
