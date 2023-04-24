@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>55.0</version>
+    <version>56.0</version>
     <types>
         <members>North_American_Sales_Path</members>
         <name>AnimationRule</name>
@@ -49,6 +49,7 @@
         <members>AnswersHome</members>
         <members>BandwidthExceeded</members>
         <members>ChangePassword</members>
+        <members>Demo</members>
         <members>Exception</members>
         <members>FileNotFound</members>
         <members>ForgotPassword</members>
@@ -188,8 +189,10 @@
     <types>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
+        <members>Account.Account_Test_Field__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.Annual_Revenue__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
@@ -2126,6 +2129,11 @@
         <members>WorkThanks.Message</members>
         <members>WorkThanks.OwnerId</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>New_Label</members>
+        <members>test</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>VAT_Rate.IT</members>
