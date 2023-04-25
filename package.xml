@@ -6,6 +6,7 @@
         <name>AnimationRule</name>
     </types>
     <types>
+        <members>BotClass</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>ContactsTodayController</members>
@@ -30,6 +31,7 @@
         <members>UpdateContactPageLayout</members>
         <members>UpdatePageLayout</members>
         <members>VATController</members>
+        <members>demo</members>
         <members>trlhdtips__tt_UtilController</members>
         <members>trlhdtips__tt_UtilControllerTest</members>
         <name>ApexClass</name>
@@ -107,6 +109,7 @@
         <members>renderPanel</members>
         <members>statusDropdown</members>
         <members>svg</members>
+        <members>test</members>
         <members>ticker</members>
         <members>toast</members>
         <members>tt_confirm_cmp</members>
@@ -200,6 +203,7 @@
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
+        <members>Account.HQ_Phone_Number__c</members>
         <members>Account.Has_Support_Plan__c</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
@@ -720,6 +724,7 @@
         <members>Contact.OwnerId</members>
         <members>Contact.Phone</members>
         <members>Contact.ReportsToId</members>
+        <members>Contact.Social_Security__c</members>
         <members>Contact.Title</members>
         <members>ContactPointAddress.ActiveFromDate</members>
         <members>ContactPointAddress.ActiveToDate</members>
@@ -1216,6 +1221,7 @@
         <members>FinanceTransaction.TaxAmount</members>
         <members>FinanceTransaction.TotalAmountWithTax</members>
         <members>FinanceTransaction.TransactionDate</members>
+        <members>Finance__c.ARR__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Image.AlternateText</members>
@@ -2223,6 +2229,7 @@
         <members>FeedItem</members>
         <members>FinanceBalanceSnapshot</members>
         <members>FinanceTransaction</members>
+        <members>Finance__c</members>
         <members>FlowOrchestrationInstance</members>
         <members>FlowOrchestrationWorkItem</members>
         <members>Idea</members>
@@ -2311,6 +2318,7 @@
         <members>StreamingChannel</members>
         <members>Task</members>
         <members>Test_Object__c</members>
+        <members>Test__c</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
         <members>User</members>

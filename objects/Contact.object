@@ -482,6 +482,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Social_Security__c</fullName>
+        <externalId>false</externalId>
+        <label>Social Security #</label>
+        <length>9</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Title</fullName>
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
