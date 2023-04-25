@@ -344,6 +344,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>HQ_Phone_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>HQ Phone Number</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Phone</type>
+    </fields>
+    <fields>
         <fullName>Has_Support_Plan__c</fullName>
         <defaultValue>false</defaultValue>
         <description>Sales users use this field to indicate to Support which customers have support plans.</description>
